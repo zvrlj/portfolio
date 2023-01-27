@@ -1,0 +1,210 @@
+* {
+   box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+   background-color: black;
+margin: 0;
+   background: linear-gradient(65deg, black, black, #01c300);
+   animation:  fanzsboje 15s ease infinite;
+   background-size: 600% 3000%;
+height: 100vh;
+background-position: absolute;
+background-repeat: none;
+}
+
+
+@keyframes fanzsboje{
+   0% {
+      background-position: 0% 50%;
+   }
+   50% {
+      background-position: 100% 50%;
+   }
+   100% {background-position: 0% 50%;}
+}
+
+
+header { font-family: Bluu Next;
+   text-align: center; 
+         font-size: 25px;
+         padding: 30px;
+         border: 0px;
+         margin-bottom:30px;}
+
+
+
+
+
+
+h1 {
+text-align:center;
+font-size: 35px;
+color: whitesmoke;
+font-family: Bluu Next;
+
+}
+
+
+p {
+   color: whitesmoke;
+   text-align: center;
+}
+
+
+
+img[src*="roze.svg"]
+{width: 100px;
+height: auto;
+position: absolute;}
+
+.link {
+   width: 100px;
+   height: auto;
+   align-items: center;
+   position: flex;
+margin: auto;
+top: 200px;}
+
+.st0:hover {
+   fill: whitesmoke;
+}
+
+
+
+
+
+
+.fotke {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   max-width: 100vw;
+   align-content: center;
+   padding-right:500px;
+   padding-left: 500px;
+   margin: 10px;
+   top: 300px;
+   margin-top: 200px;
+   position: static;
+   justify-items: center;
+}
+
+
+img[src*="sneg1"]{
+   width: 500px;
+   height: auto;
+   padding: 15px;
+}
+
+
+img[src*="negativ"]{
+   width: 500px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="celavargb"]{
+   width: 1000px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="dvegole"]{
+   width: 1000px;
+   height: auto;
+     padding: 15px;
+}
+
+img[src*="ljubamoraRGB.png"]{
+   width: 1000px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="mocvara"]{
+   width: 1000px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="padzelenoRGB"]{
+   width: 1000px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="Padnegativ"]{
+   width: 500px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="BLUR.png"]{
+   width: 500px;
+   height: auto;
+     padding: 15px;
+}
+
+img[src*="pad3negativRGB"]{
+   width: 1000px;
+   height: auto;
+     padding: 15px;
+}
+
+img[src*="celabara."]{
+   width: 1000px;
+   height: auto;
+     padding: 15px;
+}
+
+img[src*="mirnavoda"]{
+   width: 500px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="POGLEDrgb"]{
+   width: 500px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="zaba1"]{
+   width: 500px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*="20210430_190651"]{
+   width: 500px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*=""]{
+   width: 500px;
+   height: auto;
+     padding: 15px;
+}
+
+
+img[src*=""]{
+   width: 500px;
+   height: auto;
+   
+}
